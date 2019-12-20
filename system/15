@@ -1,0 +1,5 @@
+pkill tail
+
+# p -> searches the process table on the running system and signals 
+# all processes that match the criteria "tail"
+# kill -> terminate a process

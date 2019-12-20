@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cat /etc/passwd | awk -F':' '{print $1 $3 $7}'
+
+# awk -> pattern-directed scanning and precessing language
+# -F -> regular expression used to separate fields
+# $1 is the lgon, $2 the UID(Unique identifier), $7 Path

@@ -1,0 +1,4 @@
+cat /var/run/sshd.pid
+
+# A PID(process identifier) is a number used by most operating system
+# kernels, to uniquely identify an active process.

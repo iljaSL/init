@@ -1,0 +1,5 @@
+hostname new_hostname
+
+# in order to change the hostname in debian i need to become a root user
+# with the command: su, now i can change the hostname.
+# To see the current hostname just use this comman: hostname

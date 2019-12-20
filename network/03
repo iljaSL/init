@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ifconfig en1 | grep ether | cut -d ' ' -f 2
+
+# with: networksetup -listallhardwareports : we find out what the wifi card is.
+# en1 is the Wi-Fi card inside our computer, the address after ehter
+# is our MAC address, we can also find it like that -->
+# Apple Icon > System Preferences > Network > Wifi > Advanced > Hardware

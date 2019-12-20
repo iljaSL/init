@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nslookup slash16.org 8.8.8.8
+
+# nslookup -> is a program to query Internet domain name servers.

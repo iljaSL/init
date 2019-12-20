@@ -1,0 +1,6 @@
+df -h --total
+
+# df -> display free disk space
+# -h -> "Human-readable" output.
+# --total -> Elide all entries insignificant to available space, and
+# produce a grand total

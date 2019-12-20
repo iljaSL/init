@@ -1,0 +1,7 @@
+#!/bin/bash
+
+route -n get default
+
+# Routing tables enable a computer to communicate with other computers that
+# are not on the same network or subnet.
+# A default Gateaway is the entrance point to another network.

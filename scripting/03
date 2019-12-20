@@ -1,0 +1,9 @@
+#!/bin/bash
+
+sudo apt-get install sl
+sl -l
+sl -a
+sl -F
+sl -FA
+
+# Tuet Tuet 

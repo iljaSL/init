@@ -1,0 +1,5 @@
+# 10.60.1.1
+# Again to access the the name and address i run the command 
+# traceroute slash16.org | grep "nat"
+# NAT (Network Address Translation) allwos workstations with internal
+# IP addresses to access the Internet.

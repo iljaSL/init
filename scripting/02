@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cat /etc/passwd | grep "ilja"
+userdel -r ilja
+cat /etc/passwd | grep "ilja"
+
+# userdel -> delete a user account and related files
+# -r -> remove the users home directory along with the home directory

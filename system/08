@@ -1,0 +1,4 @@
+~/.ssh/authorized_keys
+
+# cat /etc/ssh/sshd_config | grep AuthorizedKeysFile | awk '{print $2 "\n" $3}'
+# A RSA key is a public key cryptosystem and is used for secure data transmission.

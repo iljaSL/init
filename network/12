@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ifconfig en0 | grep inet | grep -v inet6 | cut -d " " -f2
+
+# -v -> Selected lines are those NOT matching any of the specified patterns.
+# A DHCP Server is a network server that automatically provides and assigns
+# IP addresses, default gateaways and other network parameters to client devices.

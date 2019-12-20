@@ -1,0 +1,4 @@
+fdisk -l
+
+# fdisk -> partition maintenance program 
+# -l -> Create a list

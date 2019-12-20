@@ -1,0 +1,2 @@
+# graphic session: Launch the VM, sign in with your username and password
+# ssh session: ssh username@ipaddress + password and you are logged in

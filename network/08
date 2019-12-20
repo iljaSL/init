@@ -1,0 +1,5 @@
+# First we need to find out the IP address of slash16.org
+# nslookup slash16.org
+# We get different IP addresse, we pick one of them out and run this command:
+# whois 13.33.242.215
+# The result will be Provider: Amazon Technologies Inc.

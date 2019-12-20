@@ -1,0 +1,7 @@
+#!/bin/bash
+
+traceroute slash16.org
+
+# traceroute -> print the route packets take to network host
+# * * * -> Packet loss. This could mean a network outage, high amounts
+# of traffic leading to network congestion or firewall dropping traffic.

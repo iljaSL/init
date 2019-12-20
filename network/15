@@ -1,0 +1,5 @@
+# Add this line to /etc/hosts:
+# 46.19.122.85 intra.42.fr
+# Now the address is rerouted.
+# BUT in order to do the rerouting we need
+# to be a superuser.

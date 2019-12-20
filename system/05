@@ -1,0 +1,6 @@
+service ssh status
+
+# First we need to install a SSH server with: apt-get install openssh-server
+# We need to be root, in order to do so with: su
+# SSH (Secure Shell) is a method for secure remote login from one computer
+# to another with a strong encryption.

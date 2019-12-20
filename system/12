@@ -1,0 +1,5 @@
+du -sh /var/*
+
+# du -> display disk usage statistics
+# -h -> "Human-readable" output
+# -s -> Display an entry for each specified file

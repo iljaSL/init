@@ -1,0 +1,4 @@
+tail -f /var/log/syslog &
+
+# ps aux -> process status, to see the tail command running
+# & -> pushes the command into the background without disconnecting it.

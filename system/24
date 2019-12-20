@@ -1,0 +1,4 @@
+dpkg-query -l
+
+# dpkg-query -> is a tool to show information about packages listed in
+# the dpkg database (Debian Package)

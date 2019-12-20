@@ -1,0 +1,4 @@
+systemctl list-units --type service
+
+# systemctl -> Control the systemd system and service manager
+# list-units -> List units that systemd currently has in memory. 

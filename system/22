@@ -1,0 +1,3 @@
+adduser new_user_name
+
+# only possible wiht superuser rights
