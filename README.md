@@ -1,6 +1,6 @@
 This first network project at Hive Helsinki, gave me the opportunity to discover basic system and network commands, many of the services used on a server machine, as well as a few ideas of scripts that can be useful for SysAdmins on a daily basis.
 
-
+`The script and system part was done on a debian vm.`
 
 Some helpful sites for solving init:
 
