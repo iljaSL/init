@@ -10,11 +10,3 @@ https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work
 https://www.ssh.com/ssh/authorized_keys
 https://computer.howstuffworks.com/dns.htm
 https://www.lifewire.com/guide-to-linux-packages-2202801
-
-AND OF COURSE: 
-https://stackoverflow.com/
-
-
-
-
-
