@@ -2,7 +2,7 @@ This first network project at Hive Helsinki, gave me the opportunity to discover
 
 `The script and system part was done on a debian vm.`
 
-Some helpful sites for solving init:
+<strong>Some helpful sites for solving init:</strong>
 
 https://www.brianlinkletter.com/installing-debian-linux-in-a-virtualbox-virtual-machine/
 https://www.networkworld.com/article/3299438/dhcp-defined-and-how-it-works.html
